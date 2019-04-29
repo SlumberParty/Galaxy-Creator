@@ -1,6 +1,5 @@
 body {
     color: white;
-    /*background: rgb(61,0,85);*/
     background: linear-gradient(180deg, rgba(61,0,85,1) 39%, rgba(0,171,209,1) 74%); 
     background-repeat: no-repeat;
     height: 100vh;
@@ -19,9 +18,8 @@ div {
     height: 50px;
     width: 50px;
     border-radius: 100%;
-    margin-left: -12px;
+    margin-left: 20px;
 }
-
 
 #mercury {
     background: linear-gradient(90deg, rgba(255,101,1,1) 0%, rgba(9,9,121,1) 63%);
